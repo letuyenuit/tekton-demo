@@ -13,5 +13,5 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: atbug.com
-  system: Demo
+  owner: User:guest
+  system: Examples
