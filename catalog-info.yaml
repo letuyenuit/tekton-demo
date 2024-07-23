@@ -9,7 +9,7 @@ metadata:
     - demo
     - java
   annotations:
-    github.com/project-slug: addozhang/tekton-demo
+    github.com/project-slug: letuyenuit/tekton-demo
 spec:
   type: service
   lifecycle: experimental
